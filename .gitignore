@@ -1,0 +1,11 @@
+# 忽略所有 .yml 檔案
+*.yml
+
+# 忽略所有 .h5 檔案 (Keras/TensorFlow 模型權重)
+*.h5
+
+# 忽略所有 .csv 檔案
+*.csv
+
+# 忽略所有 .pki 檔案
+*.pki
